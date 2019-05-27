@@ -17,7 +17,7 @@ i{ font-style:normal}
 body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\4F53", Arial, Helvetica, sans-serif; font-size:12px;color:#757575;}  
 
 /*index*/
-.head{ border-bottom:1px solid #cebf9a; float:left;padding:0 0 10px; width:100%; position:relative; height:65px; z-index:1000;}
+.head{ border-bottom:1px solid #99ccff; float:left;padding:0 0 10px; width:100%; position:relative; height:65px; z-index:1000;}
 .menubg{ position:absolute; left:0; top:76px; height:55px; background:#fff; width:100%; display:none;}
 .logo{ float:left; margin-top:10px;}
 .menu{ float:right; width:470px; position:relative; z-index:2; }

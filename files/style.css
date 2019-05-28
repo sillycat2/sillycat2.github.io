@@ -2,7 +2,6 @@
 
 
 /*Reset*/
-*{ padding:0; margin:0}
 html,div,ul,li,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,img,form,embed,label{margin:0;padding:0;border:0; font-size:12px; font-weight:normal;}
 img{width:100%;}
 ul,ul li{ list-style:none;} 
@@ -15,7 +14,10 @@ a:active {color:#2b8ae4;}
 i{ font-style:normal}
 /*basic*/ 
 body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\4F53", Arial, Helvetica, sans-serif; font-size:12px;color:#757575;}  
-
+* {
+    margin: 0;
+    padding: 0;
+}
 /*index*/
 .head{ border-bottom:1px solid #99ccff; float:left;padding:0 0 10px; width:100%; position:relative; height:65px; z-index:1000;}
 .menubg{ position:absolute; left:0; top:76px; height:55px; background:#fff; width:100%; display:none;}

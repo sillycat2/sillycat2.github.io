@@ -66,7 +66,7 @@ body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\
 /*products end*/
 
 /*about*/
-.aboutbg{ background:url(../130301115G0-2.jpg) no-repeat center top; height:1024px; float:left; width:100%; margin-bottom:500; }
+.aboutbg{ no-repeat center top; height:auto; width:100%;  }
 .aboutwrap{ margin:140px auto 0; width:1000px;}
 .title2{ font-size:60px; color:#a38951; line-height:70px; margin:0 0 50px; font-weight:bold; letter-spacing:8px;}
 .aboutcon p{ font-size:16px; color:#646464; line-height:28px; letter-spacing:3px;}

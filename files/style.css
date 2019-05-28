@@ -66,7 +66,7 @@ body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\
 /*products end*/
 
 /*about*/
-.aboutbg{ background:url(../images/aboutbg.jpg) no-repeat center top; height:676px; float:left; width:100%;}
+.aboutbg{ background:url(http://pic.jj20.com/up/allimg/611/030113115G0/130301115G0-2.jpg) no-repeat center top; height:676px; float:left; width:100%;}
 .aboutwrap{ margin:140px auto 0; width:1000px;}
 .title2{ font-size:60px; color:#a38951; line-height:70px; margin:0 0 50px; font-weight:bold; letter-spacing:8px;}
 .aboutcon p{ font-size:16px; color:#646464; line-height:28px; letter-spacing:3px;}
@@ -82,12 +82,6 @@ body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\
 .tips{ line-height:40px; color:#646464; font-size:15px; letter-spacing:1px;}
 /*tec end*/
 
-/*about*/
-.aboutbg{ background:url(http://pic.jj20.com/up/allimg/611/030113115G0/130301115G0-2.jpg) no-repeat center top; height:676px; float:left; width:100%;}
-.aboutwrap{ margin:140px auto 0; width:1000px;}
-.title2{ font-size:60px; color:#a38951; line-height:70px; margin:0 0 50px; font-weight:bold; letter-spacing:8px;}
-.aboutcon p{ font-size:16px; color:#646464; line-height:28px; letter-spacing:3px;}
-/*about end*/
 
 /*sale*/
 .salebox{ float:left; width:100%; background:#f4f4f4; padding:80px 0 120px;}

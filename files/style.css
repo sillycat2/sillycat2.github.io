@@ -42,7 +42,7 @@ body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\
 .bar{ position:absolute; bottom:0; left:50%; width:1200px; margin:0 0 0 -600px; height:4px; overflow:hidden; background:#ccad66;}
 .bar p{ width:0; height:4px; background:#99ccff;}
 /*banner end*/
-.foot{ float:left; width:100%; border-top:1px solid #dedede; margin:320px 0 0; padding:42px 0 0;}
+.foot{ float:left; width:100%; border-top:1px solid #dedede; margin:96px 0 0; padding:42px 0 0;}
 .box1{ float:left; width:234px; margin:0 88px 0 0;}
 .foottle{ display:block; line-height:40px; font-size:18px; color:#646464; border-bottom:4px solid #b8b8b8; padding:0 0 0 5px;}
 .footlist li{ line-height:30px; color:#646464; font-size:14px;padding:0 0 0 5px;}
@@ -66,7 +66,7 @@ body{margin:0px; padding:0px;font-family:"\5FAE\8F6F\96C5\9ED1","黑体","\5B8B\
 /*products end*/
 
 /*about*/
-.aboutbg{ background:url(.../130301115G0-2.jpg) no-repeat center top; height:auto; float:left; width:100%;}
+.aboutbg{ background:url(.../130301115G0-2.jpg) no-repeat center top; height:auto; float:left; width:100%; border:0 0 1px;}
 .aboutwrap{ margin:140px auto 0; width:1000px;}
 .title2{ font-size:60px; color:#a38951; line-height:70px; margin:0 0 50px; font-weight:bold; letter-spacing:8px;}
 .aboutcon p{ font-size:16px; color:#646464; line-height:28px; letter-spacing:3px;}

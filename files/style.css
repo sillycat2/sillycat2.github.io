@@ -3,8 +3,19 @@
 
 /*Reset*/
 *{ padding:0; margin:0}
-html,div,ul,li,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,img,form,embed,label{margin:0;padding:0;border:0; font-size:12px; font-weight:normal;}
+html,div,ul,li,dl,dt,dd,h1,h3,h4,h5,h6,img,form,embed,label{margin:0;padding:0;border:0; font-size:12px; font-weight:normal;}
 img{width:100%; border:none}
+h2{
+	font-size: 30px;
+	line-height: 60px;
+	color: #1363a8;
+	font-weight: normal;
+}
+p{
+	font-size: 16px;
+	line-height: 30px;
+	color: #666;
+}
 ul,ul li{ list-style:none;} 
 .cls{clear:both; line-height:0px!important; height:0px!important;font-size:0px!important;} 
 select,input{ vertical-align:middle;font-size:12px;}  
